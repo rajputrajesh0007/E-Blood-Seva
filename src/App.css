@@ -1,0 +1,59 @@
+h1 {
+    color: #bf2229;
+}
+
+h5 {
+    color: #bf2229;
+}
+
+.bs-dash {
+    overflow-y: scroll;
+    height: auto;
+    max-height: calc(75vh - 10px);
+}
+
+.card-header {
+    color: #fff !important;
+    background-color: #bf2229 !important;
+}
+
+.btn-outline-danger {
+    color: #bf2229 !important;
+    background-color: transparent;
+    border-color: #bf2229 !important;
+}
+
+.btn-outline-danger:hover {
+    color: #fff !important;
+    background-color: #bf2229 !important;
+    border-color: #bf2229 !important;
+}
+
+.btn-outline-danger:focus {
+    color: #fff !important;
+    background-color: #bf2229 !important;
+    border-color: #bf2229 !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #ebebeb;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #bf2229;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+.error {
+    color: #bf2229;
+  }
+
+  #para {
+    text-align: justify;
+  }

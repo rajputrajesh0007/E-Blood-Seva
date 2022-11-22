@@ -1,0 +1,30 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  background: #bf2229;
+  align-items: center;
+  justify-content: left;
+  vertical-align: center;
+  width: 100%;
+  height: 80px;
+}
+.nav a {
+  margin-left: 40px;
+  justify-content: center;
+  color: #FFF;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: monospace;
+}
+.nav a:hover {
+  color: #FFF;
+  
+
+}
+.nav img {
+  width: 75px;
+  height: 70px;
+  float: left;
+  background-color: #FFF;
+  border-radius: 15px;
+}
