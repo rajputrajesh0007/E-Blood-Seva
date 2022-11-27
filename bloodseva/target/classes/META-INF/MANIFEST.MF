@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vip
+Build-Jdk: 17.0.3
+Implementation-Title: bloodseva
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.team
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bloodseva
+Created-By: Maven Integration for Eclipse
+
